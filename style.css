@@ -2,10 +2,12 @@ header{
 	position: relative;
 	background-color: white;
 }
+
 header center {
 	margin-top: 55px;
 
 }
+
 section {
 	position: relative;
 	padding left: 50px;
@@ -13,22 +15,22 @@ section {
 	table-layout: fixed;
 	font-family: cursive;
 	align-items: center;
-	text-align: justify;
 	margin:150px 100px 150px 100px;
 	overflow: hidden;
 
 }
-.box1 {
 
+.box1 {
+	vertical-align: top;
 	position: relative;
 	padding-left: 2px;
 	font-weight: normal;
 	padding-top: 15px;
 	display: inline-block;
-	width: 33%;
+	width: 32%;
 	text-align: center;
 }
+
 h3{
 	font-style: italic;
-
 }
