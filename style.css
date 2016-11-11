@@ -1,0 +1,34 @@
+header{
+	position: relative;
+	background-color: white;
+}
+header center {
+	margin-top: 50px;
+
+}
+section {
+	position: relative;
+	padding left: 50px;
+	padding-right: 50px;
+	table-layout: fixed;
+	font-family: cursive;
+	align-items: center;
+	text-align: justify;
+	margin:150px 100px 150px 100px;
+	overflow: hidden;
+
+}
+.box1 {
+
+	position: relative;
+	padding-left: 2px;
+	font-weight: normal;
+	padding-top: 15px;
+	display: inline-block;
+	width: 33%;
+	text-align: center;
+}
+h3{
+	font-style: italic;
+
+}
